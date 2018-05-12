@@ -1,4 +1,8 @@
 _repo: Glaciers-of-the-Rockies-and-Selkirks-2nd-ed-With-Notes-on-Five-Great-Glaciers-of-the-Canadian__50986
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50986-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Coleman, Arthur Philemon
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '46183'
     url: http://www.gutenberg.org/2009/agents/46183
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50986#Glaciers-of-the-Rockies-and-Selkirks-2nd-ed-With-Notes-on-Five-Great-Glaciers-of-the-Canadian_
 gutenberg_issued: '2016-01-21'
 gutenberg_type: Text
 identifiers:
